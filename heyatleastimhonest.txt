@@ -1,0 +1,39 @@
+# random seed:       65537
+# tasks[1-50]:       10
+                                                     8  in CS
+     2  in CS
+             3  in CS
+                     4  in CS
+                             5  in CS
+                                     6  in CS
+                                             7  in CS
+                                                             9  in CS
+             3  out CS
+                                             7  out CS
+                                                             9  out CS
+     2  out CS
+                                                                     4 update
+                                                                     8 update
+                                                                     0 update
+                                                                     3 update
+             3  in CS
+                                     6  out CS
+                                                                     7 update
+                                             7  in CS
+                             5  out CS
+                     4  out CS
+             3  out CS
+                                                     8  out CS
+                                             7  out CS
+                                                                     6 update
+                                                                     5 update
+                             5  in CS
+                                                                     9 update
+                                                             9  in CS
+                                     6  in CS
+                             5  out CS
+                                     6  out CS
+                                                             9  out CS
+Going to kill random process ... process 0
+ 
+[matt@twinbee prog4]$

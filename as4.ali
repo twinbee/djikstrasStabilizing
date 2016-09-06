@@ -1,0 +1,162 @@
+V "GNAT Lib v3.15"
+M P W=b
+P
+R nnvvnvvvnnnnnvvvvvvvvvvnnnnnnvnvvvnvnvnvnnnnvnnnvvnn
+
+U as4%b			as4.adb			babe7d56 NE SU IU KU
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.float_random%s  a-nuflra.adb	a-nuflra.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system%s		system.ads		system.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20020319081957 a0108083
+D a-calend.ads		20021024164812 83015fd2
+D a-caldel.ads		20021024164812 d5f7cf82
+D a-except.ads		20021024164816 a9cbab76
+D a-finali.ads		20021024164817 d4be2e87
+D a-filico.ads		20021024164816 83058640
+D a-inteio.ads		20020319081945 58c81565
+D a-ioexce.ads		20020319081945 d52e128a
+D a-numeri.ads		20020319081945 24750733
+D a-nuflra.ads		20021024164819 847103fa
+D a-stream.ads		20021024164822 dbe6acb4
+D a-string.ads		20020319081945 6440c304
+D a-tags.ads		20021024164827 bc792b69
+D a-textio.ads		20021024164827 98d7a37c
+D a-tiinio.ads		20021024164830 d2c49634
+D as4.adb		20041021044752 19915463
+D interfac.ads		20020319082053 6e859da6
+D i-c.ads		20020319082052 fef7fe28
+D i-cstrea.ads		20021024164902 12f12cf1
+D system.ads		20021024164739 2f3adf03
+D s-exctab.ads		20021024164922 52f2ffc0
+D s-ficobl.ads		20021024164926 14416104
+D s-finimp.ads		20021024164926 ef65ab1e
+D s-finroo.ads		20021024164926 7e5e077b
+D s-imgint.ads		20021024164928 f1ba8463
+D s-osinte.ads		20030515220608 f99b8fcf
+D s-parame.ads		20021024164936 315d7d16
+D s-secsta.ads		20021024164937 e384df23
+D s-soflin.ads		20021024164937 14059e84
+D s-stache.ads		20021024164938 8fc58eaa
+D s-stalib.ads		20021024164938 76713122
+D s-stoele.ads		20020319082132 c6bef0ad
+D s-stratt.ads		20021024164938 9fdf8f81
+D s-tasinf.ads		20021024164938 bbbd2b69
+D s-taspri.ads		20021024164739 26c755ad
+D s-taskin.ads		20021024164938 36912069
+D s-taprob.ads		20021024164938 0962e958
+D s-tpoben.ads		20021024164939 4dc7204d
+D s-tasren.ads		20021024164939 35499295
+D s-tassta.ads		20021024164939 2aa92874
+D s-unstyp.ads		20021024164939 05ad3732
+D unchconv.ads		20020319082153 1b7a14c5
+D unchdeal.ads		20020319082153 8ac9d15e
+X 1 ada.ads
+17K9*Ada 20e8 16|54r6 54r77 55r6 55r53 56r6 56r37 58r6 60r6 60r69 68r22 324r9
+X 2 a-calend.ads
+39K13*Calendar 118e17 16|58r10
+X 7 a-inteio.ads
+19K13*Integer_Text_IO 16|55r10 55r57
+X 9 a-numeri.ads
+18K13*Numerics 29e17 16|56r10 56r41 68r26 324r13
+X 10 a-nuflra.ads
+52K22*Float_Random 100e30 16|56r19 56r50 68r35 324r22
+56R9*Generator 16|68r48
+60V13*Random 16|157r42 179r42 368r44
+63U14*Reset 16|324r35
+X 12 a-string.ads
+17K13*Strings 31e16 16|60r10 60r73
+X 14 a-textio.ads
+50K13*Text_IO 441e16 16|54r10 54r81
+244U14*Put 16|321r9 329r17 364r17
+259U14*Put_Line 16|155r17 160r17 177r17 182r17 243r25 259r25 284r25 372r33
+X 15 a-tiinio.ads
+58U14*Get 16|322r9[16|19] 330r17[16|19]
+68U14*Put 16|154r17[16|19] 159r17[16|19] 176r17[16|19] 181r17[16|19] 242r25[16|19]
+. 258r25[16|19] 283r25[16|19] 372r17[16|19]
+X 16 as4.adb
+65U11*AS4 379l21 379t24
+68R9 randomPool{10|56R9} 157r49 179r49 324r41 368r51
+73N9 MAX_TASKS 315r29 317r29 332r67
+75N9 SCALE_FACTOR 157r63 179r63 363r12
+77a3 SPACES{string}
+80E14 ITR_CODE 80e50
+80n27 PREV_I{80E14} 125r28 128r28 149r65 173r67 185r48 212r27 215r27 245r35
+. 267r43 269r43 285r35 290r77 291r179 297r77 298r179
+80n35 SELF_I{80E14} 149r45 164r27 164r49 167r52 173r46 185r27 188r52 211r27
+. 214r27
+80n43 NEXT_I{80E14} 125r36 128r36 167r27 188r27 213r27 216r27 263r43 265r43
+. 285r69 286r177 290r43 297r43
+84T14 RX 85r31 337r47
+85P14 RX_ptr(90T11) 94r67 95r67 96r67 113r35 114r35 125r47 202r67 203r67
+. 204r67 254r35 255r35 315r43
+90T11 RX 118l5 118e7 120b11 310l5 310t7
+93Y15 initvars 200b16 227l13 227t21 344r40
+93i25 id{integer} 218r22
+94p57 self{85P14} 211r38
+95p57 prev{85P14} 212r38
+96p57 next{85P14} 213r38
+97i15 selfFlag{integer} 214r38
+98i57 prevFlag{integer} 215r38
+99i57 nextFlag{integer} 216r38
+100i57 numProcesses{integer} 217r22
+104Y15 update 167r35 188r35 239b16 248l9 248t15
+104i27 flag{integer} 245r46
+107Y15 remove 276b16 304l21 304t27 373r34
+110Y15 neighbor_change 250b16 274l21 274t36 285r43 290r51 297r51
+112i25 flag{integer} 265r54 269r54
+113p25 prev{85P14} 261r29 267r54
+114p25 next{85P14} 263r54
+115b25 lowId{boolean} 271r45
+125a9 procArray 167r17 188r17 211m17 212m17 213m17 263m33 267m33 285r25 286r167
+. 290r33 291r169 297r33 298r169
+128a9 flagArray 149r35 149r55 164m17 164r39 167r42 173r36 173r57 185m17 185r38
+. 188r42 214m17 215m17 216m17 245m25 265m33 269m33 285r59 290r67 297r67
+131i9 i{integer} 154r21 154r32 159r21 159r32 176r21 176r32 181r21 181r32
+. 218m17 220r20 242r29 258r29 283r29
+132i9 n{integer} 154r29 159r29 164r66 176r29 181r29 217m17
+134b9 RIP{boolean} 302m25 308r11
+135b9 lowestId{boolean} 146r13 220m31 221m22 271m33 288r11
+137T19 djkstra_task 139l13 139e25 141b19 193l5 193t17 195r31 229r20
+195P14 AL_Ptr(137T19) 196r15
+196p9 ptr{195P14} 229m9
+201i18 id{integer}
+202p57 self{85P14}
+203p57 prev{85P14}
+204p57 next{85P14}
+205i15 selfFlag{integer}
+206i57 prevFlag{integer}
+207i57 nextFlag{integer}
+208i57 numProcesses{integer}
+239i27 flag{integer}
+253i25 flag{integer}
+254p25 prev{85P14}
+255p25 next{85P14}
+256b25 lowId{boolean}
+312U11 Driver 377l5 377t11 379r9
+314i9 numtasks_user{integer} 330m21 332r28 332r50 335r35 342r35 347r57 348r57
+. 351r33 353r49 355r9 361r41 368r68
+314i24 seed_user{integer} 322m13 324r52
+315a3 ptrArray 337m17 344r17 346r25 347r25 348r25 373r17
+316i9 killId{integer} 368m25 369r48 371r26 372r21 373r26
+317a3 RIPArray 369r39 371m17
+335i13 TASK_counter{integer} 337r26
+342i13 TASK_counter{integer} 344r26 345r25 346r34 347r35 348r35 349r25 351r11
+. 353r27
+361i13 kill_index{integer}
+

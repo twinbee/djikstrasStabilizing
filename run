@@ -1,0 +1,3 @@
+#! /bin/bash
+rm -rf as4.o as4
+gnatmake as4.adb && ./as4

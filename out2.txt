@@ -1,0 +1,127 @@
+# random seed:       11117
+# tasks[1-50]:       1
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+ 
+0 in CS
+0 out CS
+                                                                     0 update
+Going to kill random process ... process 0
+                                                                     0 dying... 																																		
